@@ -1,0 +1,36 @@
+@media screen and (max-width: 1080px) {
+    .column66 {
+        width: 100%;
+    }
+
+    .column33 {
+        display: none;
+    }
+
+    .progress-bar{
+        height: 2.5rem;
+        border-radius: 2rem;
+    }
+    #now-color {
+        height: 2.5rem;
+        border-radius: 2rem;
+    }
+
+    tr td:first-child, td {
+        font-size: 1.2rem;
+    }
+
+    .dati-regioni td{
+        font-size: 1.3rem;
+    }
+
+    .num-dati{
+        font-size: 1.3rem;
+    }
+
+    body{
+        padding: 10em 1% 1%;
+        min-height: 100%;
+    }
+}
+
